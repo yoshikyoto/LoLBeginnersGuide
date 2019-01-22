@@ -1,0 +1,19 @@
+title: LoL入門書
+description: >
+  これからLoLを始める人、LoLを始めたけどなにをしたらゲームに勝てるのかわからない人向けの入門書です。
+baseurl: "/"
+url: "https://lol-beginner.utakata.work"
+twitter_username: yoshiki_utakata
+github_username:  yoshikyoto
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Third-party services
+# google_analytics:
+disqus_shortname:
+
+# used this for post_excerpt at index_page
+excerpt_separator: <!--description-->

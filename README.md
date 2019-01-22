@@ -1,3 +1,3 @@
-# docs
+# LoL入門書
 
-Using https://github.com/wild-flame/jekyll-simple
+HTMLのテンプレートは https://github.com/wild-flame/jekyll-simple を利用しています。

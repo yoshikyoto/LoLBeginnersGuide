@@ -10,4 +10,4 @@ HTMLのテンプレートは https://github.com/wild-flame/jekyll-simple を利�
 
 ## ページを追加したら
 
-`_includes/header.html` を追記してください。
+`_includes/header.html` を[編集](https://github.com/yoshikyoto/LoLBeginnersGuide/edit/master/_includes/header.html)してください。

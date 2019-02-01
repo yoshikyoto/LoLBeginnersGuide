@@ -4,7 +4,7 @@ description: >
 baseurl: "/"
 url: "https://lol-beginner.utakata.work"
 twitter_username: yoshiki_utakata
-github_username:  yoshikyoto
+github_username:  yoshikyoto/LoLBeginnersGuide
 
 # Build settings
 markdown: kramdown

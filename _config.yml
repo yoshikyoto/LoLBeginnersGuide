@@ -12,7 +12,7 @@ kramdown:
   input: GFM
 
 # Third-party services
-# google_analytics:
+google_analytics: UA-77941335-5
 disqus_shortname:
 
 # used this for post_excerpt at index_page
